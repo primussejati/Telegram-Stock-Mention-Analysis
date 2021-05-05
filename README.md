@@ -1,2 +1,6 @@
 # Telegram Stock Mention Analysis
-This project will analyze the correlation between stock mention on telegram groups with stock price and volume
+
+Making approachment about correlation betwen stock mention in public (telegram groups) and stock price movement
+
+Hipotesis :
+When a stock frequently mentioned in public (telegram groups), then the stock is entering public participation phase, which the price will be more volatile.
